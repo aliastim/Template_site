@@ -12,3 +12,5 @@ Il comporte toutes les librairies indispensables parmi lesquelles :
 Pour installer le projet, il suffit de le télécharger.<br>
 Installer le dossier vendor avec `composer install`<br>
 ou mettre à jour les librairies avec `composer update`
+
+🅰🅻🅸🅰🆂🆃🅸🅼
